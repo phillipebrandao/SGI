@@ -103,6 +103,8 @@ C:\Users\Victória\source\repos\SGI.Application\SGI.Application\bin\System.Diagn
 C:\Users\Victória\source\repos\SGI.Application\SGI.Application\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 C:\Users\Victória\source\repos\SGI.Application\SGI.Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Victória\source\repos\SGI.Application\SGI.Application\obj\Debug\SGI.Application.csprojAssemblyReference.cache
+C:\Users\Victória\source\repos\SGI.Application\SGI.Application\obj\Debug\SGI.Application.Migrations.Inicial.resources
+C:\Users\Victória\source\repos\SGI.Application\SGI.Application\obj\Debug\SGI.Application.csproj.GenerateResource.cache
 C:\Users\Victória\source\repos\SGI.Application\SGI.Application\obj\Debug\SGI.Application.csproj.CoreCompileInputs.cache
 C:\Users\Victória\source\repos\SGI.Application\SGI.Application\obj\Debug\SGI.Application.csproj.CopyComplete
 C:\Users\Victória\source\repos\SGI.Application\SGI.Application\obj\Debug\SGI.Application.dll
