@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGI.Application", "SGI.Application\SGI.Application.csproj", "{2BA4942F-C296-42AD-A4F0-7071BC7244AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGI.Db", "SGI.Db\SGI.Db.csproj", "{8E2551F8-3D92-47C9-A119-E45D4FEC515D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BA4942F-C296-42AD-A4F0-7071BC7244AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA4942F-C296-42AD-A4F0-7071BC7244AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA4942F-C296-42AD-A4F0-7071BC7244AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA4942F-C296-42AD-A4F0-7071BC7244AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E2551F8-3D92-47C9-A119-E45D4FEC515D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2551F8-3D92-47C9-A119-E45D4FEC515D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2551F8-3D92-47C9-A119-E45D4FEC515D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2551F8-3D92-47C9-A119-E45D4FEC515D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F07C7037-5EEA-4E91-AFE5-5A794FD294E9}
+	EndGlobalSection
+EndGlobal
